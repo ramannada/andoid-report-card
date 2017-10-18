@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReportCard</string>
+
+    <string-array name="subject">
+        <item>Bahasa Indonesia</item>
+        <item>Matematika</item>
+        <item>IPA</item>
+        <item>Bahasa Inggris</item>
+    </string-array>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>
